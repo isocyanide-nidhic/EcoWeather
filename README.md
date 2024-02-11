@@ -17,3 +17,4 @@ OpenWeatherMap API for fetching weather data.
 
 ## Demo
 You can see a live demo of the app
+https://isocyanide-nidhic.github.io/EcoWeather/
